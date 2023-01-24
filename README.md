@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacha93
-- 👀 I’m interested in JS, Python and Discord Bot programming.
-- 🌱 I’m currently learning JS and Python.
+- 👀 I’m interested in Webdevolopment and Discord Bot programming.
+- 🌱 I’m currently updating my skills in HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... actually on nothing.
 
