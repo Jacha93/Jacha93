@@ -1,7 +1,7 @@
 #Hey👋 nice to see you here!
 - I’m @Jacha93
 
-> [!IMPORTENT]
+> [!IMPORTANT]
 > - 👀 I’m interested in Webdevolopment, Discord Bot programming and App development (iOS).
 
 - 🌱 I’m currently updating my skills in JS, Python, HTML, CSS, SQL and Swift/SwiftUI.
