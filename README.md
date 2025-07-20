@@ -8,6 +8,7 @@
 - 💻 Software Engineer trainee.
 - 📫 How to reach me: Write a dm on x.com/jacha_93
 
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jacha_93?style=social)
 
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
