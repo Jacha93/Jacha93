@@ -1,9 +1,10 @@
 # Hey👋 nice to see you here!
+> [!INFO]
+> - THIS PROFILE IS CURRENTLY IN THE PLANNING STAGE FOR A COMPLETE OVERHAUL—ESPECIALLY THIS README.
 - I’m @Jacha93
 
-> [!IMPORTANT]
-> - 👀 I’m interested in Webdevolopment, Discord Bot programming and App development (iOS).
 
+- 👀 I’m interested in Webdevolopment, Discord Bot programming and App development (iOS).
 - 🌱 I’m currently updating my skills in JS, Python, HTML, CSS, SQL and Swift/SwiftUI.
 - 💻 Software Engineer trainee.
 - 📫 How to reach me: Write a dm on x.com/jacha_93
