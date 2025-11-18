@@ -30,8 +30,8 @@
 
 <br/>
 
-![Jacha's GitHub stats](https://github-readme-stats.vercel.org/api?username=Jacha93&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.org/api/top-langs/?username=Jacha93&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
+![Jacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacha93&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacha93&layout=compact&theme=transparent)
 
 </div>
 - 📫 How to reach me: Write a dm on x.com/jacha_93
