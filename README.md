@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F88FF&center=true&vCenter=true&width=435&lines=Software+Engineer+Student;Web+Developer;Discord+Bot+Creator;iOS+Developer+(Swift)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Engineer;Web+Developer;Discord+Bot+Creator;'iOS+Developer'" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,10 +30,10 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacha93&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacha93&layout=compact&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true)
 <br/>  
 
-![Jacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacha93&show_icons=true&theme=transparent)
+![Jacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacha93&show_icons=true&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true)
 
 
 </div>
