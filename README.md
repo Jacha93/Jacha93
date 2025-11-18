@@ -30,13 +30,22 @@
 
 <br/>
 
-![Jacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacha93&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacha93&layout=compact&theme=transparent)
+<br/>  
+
+![Jacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacha93&show_icons=true&theme=transparent)
+
 
 </div>
-- 📫 How to reach me: Write a dm on x.com/jacha_93
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jacha_93?style=social)
+<div align="center">
+
+### 📫 Reach me on
+
+[![X](https://img.shields.io/badge/X-%23323330.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jacha_93)
+[![Instagram](https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jacha__93)
+
+</div>
 
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
