@@ -207,15 +207,13 @@ Running on **Ubuntu Server** with **Docker Compose**
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="48%">
 
 ![Jacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacha93&show_icons=true&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true&include_all_commits=true&count_private=true)
 
 </td>
-<td align="center">
-<img width="10" height="180" src="data:image/svg+xml,%3Csvg width='10' height='180' xmlns='http://www.w3.org/2000/svg'%3E%3Cline x1='5' y1='0' x2='5' y2='180' stroke='%23b6356f' stroke-width='2'/%3E%3C/svg%3E" alt="separator"/>
-</td>
-<td align="center">
+<td width="4%"></td>
+<td align="center" width="48%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacha93&layout=compact&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true)
 
