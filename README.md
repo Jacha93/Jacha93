@@ -211,15 +211,13 @@ Running on **Ubuntu Server** with **Docker Compose**
 <br/>
 
 <!--START_SECTION:waka-->
+
 ```txt
-⏳ Warte auf erste WakaTime Daten...
-   
-So richtest du es ein:
-1. WakaTime Extension in Cursor installiert? ✓
-2. API Key von WakaTime Settings kopiert? ✓
-3. In GitHub Secrets als WAKATIME_API_KEY gespeichert? ⏳
-4. Warte auf nächsten Commit → Action läuft automatisch! 🚀
+From: 12 November 2025 - To: 19 November 2025
+
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 </details>
