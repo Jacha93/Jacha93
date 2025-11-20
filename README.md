@@ -209,11 +209,11 @@ Running on **Ubuntu Server** with **Docker Compose**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacha93&layout=compact&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jacha93&theme=transparent&hide_border=true&ring=b6356f&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=b6356f&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jacha93&bg_color=00000000&color=00E5FF&line=b6356f&point=00E5FF&area=true&hide_border=true)
 
 ### 📈 Coding Activity
 
-**Coding time tracked with** [![WakaTime](https://img.shields.io/badge/WakaTime-%23323330.svg?style=for-the-badge&logo=wakatime&logoColor=%2300E5FF)](https://wakatime.com/@JachaDev)
+[![WakaTime Profile](https://img.shields.io/badge/WakaTime-Profile-%23323330?style=for-the-badge&logo=wakatime&logoColor=00E5FF)](https://wakatime.com/@JachaDev)
 
 </div>
 
