@@ -19,6 +19,8 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%">
@@ -68,6 +70,8 @@ status: Building MVP Project
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -201,27 +205,25 @@ Running on **Ubuntu Server** with **Docker Compose**
 
 ### 📈 Coding Activity
 
+> **📝 WakaTime Setup:** Track deine Coding-Activity hier!  
+> 1. Erstelle einen Account auf [wakatime.com](https://wakatime.com)  
+> 2. Installiere die Extension für Cursor/VS Code  
+> 3. Ersetze `YOUR_WAKATIME_USER_ID` mit deiner User ID (Settings → Account)  
+> 4. Badge erscheint dann automatisch! ✨
+
+<!--
+Uncomment when WakaTime is set up:
 [![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=for-the-badge&color=b6356f)](https://wakatime.com/@JachaDev)
 
 <details>
 <summary>📊 Weekly Coding Stats</summary>
 <br/>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 12 November 2025 - To: 19 November 2025
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 </details>
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b6356f&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+-->
 
 </div>
 
