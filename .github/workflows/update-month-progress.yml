@@ -22,14 +22,28 @@ jobs:
           README_FILE="README.md"
           
           # Finde aktuelle Month-Zahl
-          CURRENT_MONTH=$(grep -oP 'progress: Month \K\d+' "$README_FILE")
+          CURRENT_MONTH=$(grep -oP 'progress: Month \K\d+' "$README_FILE" || echo "")
+          
+          # Validiere dass CURRENT_MONTH nicht leer ist
+          if [ -z "$CURRENT_MONTH" ]; then
+            echo "❌ Error: Could not find 'progress: Month X of 14' in README.md"
+            echo "MONTH_UPDATED=false" >> $GITHUB_ENV
+            exit 0
+          fi
           
           echo "Current month: $CURRENT_MONTH"
+          
+          # Validiere dass CURRENT_MONTH eine Zahl ist
+          if ! [[ "$CURRENT_MONTH" =~ ^[0-9]+$ ]]; then
+            echo "❌ Error: CURRENT_MONTH is not a valid number: $CURRENT_MONTH"
+            echo "MONTH_UPDATED=false" >> $GITHUB_ENV
+            exit 0
+          fi
           
           # Erhöhe Month um 1, aber maximal bis 14
           if [ "$CURRENT_MONTH" -lt 14 ]; then
             NEW_MONTH=$((CURRENT_MONTH + 1))
-            echo "Updating to month: $NEW_MONTH"
+            echo "✅ Updating to month: $NEW_MONTH"
             
             # Ersetze in README
             sed -i "s/progress: Month $CURRENT_MONTH of 14/progress: Month $NEW_MONTH of 14/" "$README_FILE"
@@ -38,7 +52,7 @@ jobs:
             echo "MONTH_UPDATED=true" >> $GITHUB_ENV
             echo "NEW_MONTH=$NEW_MONTH" >> $GITHUB_ENV
           else
-            echo "Already at month 14 - no update needed"
+            echo "✅ Already at month 14 - no update needed"
             echo "MONTH_UPDATED=false" >> $GITHUB_ENV
           fi
       
