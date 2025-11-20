@@ -1,15 +1,13 @@
 name: Waka Readme
 
 on:
-  # Deaktiviert bis WakaTime eingerichtet ist
-  # Aktiviere es indem du die Kommentare entfernst
-  # schedule:
-  #   # Läuft jeden Tag um 00:00 UTC
-  #   - cron: '0 0 * * *'
+  schedule:
+    # Läuft jeden Tag um 00:00 UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:

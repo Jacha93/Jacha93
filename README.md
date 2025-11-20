@@ -197,28 +197,28 @@ Running on **Ubuntu Server** with **Docker Compose**
 
 <div align="center">
 
-![Jacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacha93&show_icons=true&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true&include_all_commits=true)
+<a href="https://github.com/Jacha93">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jacha93&show_icons=true&theme=dark&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jacha93&layout=compact&theme=dark&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true"/>
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacha93&layout=compact&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jacha93&theme=transparent&hide_border=true&ring=b6356f&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=b6356f&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jacha93&theme=transparent&hide_border=true&ring=b6356f&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=b6356f&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff)](https://github.com/Jacha93)
 
 ### 📈 Coding Activity
 
-> **🔧 WakaTime Setup (Optional):**  
-> 1. Account auf [wakatime.com](https://wakatime.com) erstellen (kostenlos)  
-> 2. Extension für Cursor/VS Code installieren  
-> 3. API Key in GitHub Secrets speichern: `WAKATIME_API_KEY`  
-> 4. Workflow in `.github/workflows/waka-readme.yml` aktivieren  
-> 5. Stats werden automatisch hier eingefügt! ⬇️
-
 <details>
-<summary>📊 Weekly Coding Stats</summary>
+<summary>📊 Weekly Coding Stats (powered by WakaTime)</summary>
 <br/>
 
 <!--START_SECTION:waka-->
 ```txt
-Noch nicht eingerichtet - folge der Anleitung oben! ☕
+⏳ Warte auf erste WakaTime Daten...
+   
+So richtest du es ein:
+1. WakaTime Extension in Cursor installiert? ✓
+2. API Key von WakaTime Settings kopiert? ✓
+3. In GitHub Secrets als WAKATIME_API_KEY gespeichert? ⏳
+4. Warte auf nächsten Commit → Action läuft automatisch! 🚀
 ```
 <!--END_SECTION:waka-->
 
