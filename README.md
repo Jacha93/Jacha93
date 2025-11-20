@@ -144,7 +144,8 @@ Professional ticket & management system built with Discord.js
 </table>
 
 <table>
-<tr><td>
+<tr>
+<td width="50%" valign="top">
 
 ### 🥫 smart-pantry
 **AI-Powered Pantry Management**
@@ -155,11 +156,8 @@ Building an intelligent solution for pantry organization and meal planning with 
 
 **Status:** 🔓 [View on GitHub](https://github.com/Jacha93/smart-pantry)
 
-</td></tr>
-</table>
-
-<table>
-<tr><td>
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Personal Landing Page
 **Modern Portfolio & Showcase**
@@ -170,7 +168,8 @@ Clean, modern landing page built with pure vanilla web technologies
 
 **Status:** 🔒 Private • Coming Soon
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 </div>
