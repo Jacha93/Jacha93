@@ -274,14 +274,14 @@ Streaming & tinkering with OBS Studio + Streamer.bot
 
 ```javascript
 const jacha = {
-    age: 32,
-    location: "Germany 🇩🇪",
-    previousLife: "9 years as Professional Truck Driver 🚛",
-    currentMission: "Software Engineer @ Masterschool",
-    setup: ["RGB in Magenta & Cyan", "Nobara Linux Daily Driver"],
-    philosophy: "If it can be dockerized, it will be dockerized",
-    superpower: "Turning coffee into code",
-    motto: "Building solutions that don't exist yet - for free"
+  age: 32,
+  location: "Germany 🇩🇪",
+  previousLife: "9 years as Professional Truck Driver 🚛",
+  currentMission: "Software Engineer @ Masterschool",
+  setup: ["RGB in Magenta & Cyan", "Nobara Linux Daily Driver"],
+  philosophy: "If it can be dockerized, it will be dockerized",
+  superpower: "Turning coffee into code",
+  motto: "Building solutions that don't exist yet - for free"
 };
 ```
 
