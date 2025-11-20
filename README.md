@@ -272,6 +272,8 @@ Streaming & tinkering with OBS Studio + Streamer.bot
 
 🌟 *"Sometimes I code, sometimes I stream, always I caffeinate"* ☕
 
+<table><tr><td>
+
 ```javascript
 const jacha = {
   age: 32,
@@ -284,6 +286,8 @@ const jacha = {
   motto: "Building solutions that don't exist yet - for free"
 };
 ```
+
+</td></tr></table>
 
 ### 💜 Fun Facts
 - Tech enthusiast since childhood
