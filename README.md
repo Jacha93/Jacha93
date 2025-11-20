@@ -7,13 +7,13 @@
 
 </div>
 
----
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Discord+Bot+Creator;Discord+Server+Manager;Web+Developer;Self-Hosting+Enthusiast;Content+Creator" alt="Typing SVG" />
   </a>
 </div>
+
+---
 
 <br/>
 
@@ -272,9 +272,9 @@ Streaming & tinkering with OBS Studio + Streamer.bot
 
 ---
 
-<div align="center">
-
 ## ⚡ Random Dev Facts
+
+<div align="center">
 
 **From the Highway to the Code Highway** 🚛 → 💻
 
