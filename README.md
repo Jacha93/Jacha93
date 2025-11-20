@@ -256,21 +256,11 @@ Streaming & tinkering with OBS Studio + Streamer.bot
 
 <div align="center">
 
-<a href="https://twitch.tv/jacha_93" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-%23323330.svg?style=for-the-badge&logo=Twitch&logoColor=%239146FF" alt="Twitch"/>
-</a>
-<a href="https://youtube.com/@jacha_93" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23323330.svg?style=for-the-badge&logo=YouTube&logoColor=%23FF0000" alt="YouTube"/>
-</a>
-<a href="https://x.com/jacha_93" target="_blank">
-  <img src="https://img.shields.io/badge/X-%23323330.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-</a>
-<a href="https://instagram.com/jacha__93" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=%23E4405F" alt="Instagram"/>
-</a>
-<a href="https://threads.net/@jacha__93" target="_blank">
-  <img src="https://img.shields.io/badge/Threads-%23323330.svg?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
-</a>
+[![Twitch](https://img.shields.io/badge/Twitch-%23323330.svg?style=for-the-badge&logo=Twitch&logoColor=%239146FF)](https://twitch.tv/jacha_93)
+[![YouTube](https://img.shields.io/badge/YouTube-%23323330.svg?style=for-the-badge&logo=YouTube&logoColor=%23FF0000)](https://youtube.com/@jacha_93)
+[![X](https://img.shields.io/badge/X-%23323330.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jacha_93)
+[![Instagram](https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=%23E4405F)](https://instagram.com/jacha__93)
+[![Threads](https://img.shields.io/badge/Threads-%23323330.svg?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@jacha__93)
 
 </div>
 
