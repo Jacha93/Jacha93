@@ -1,0 +1,57 @@
+name: Update Month Progress
+
+on:
+  schedule:
+    # Läuft am 1. jeden Monats um 00:00 UTC
+    - cron: '0 0 1 * *'
+  workflow_dispatch: # Manuell testbar
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Update Month Progress
+        run: |
+          # Lese aktuelle README
+          README_FILE="README.md"
+          
+          # Finde aktuelle Month-Zahl
+          CURRENT_MONTH=$(grep -oP 'progress: Month \K\d+' "$README_FILE")
+          
+          echo "Current month: $CURRENT_MONTH"
+          
+          # Erhöhe Month um 1, aber maximal bis 14
+          if [ "$CURRENT_MONTH" -lt 14 ]; then
+            NEW_MONTH=$((CURRENT_MONTH + 1))
+            echo "Updating to month: $NEW_MONTH"
+            
+            # Ersetze in README
+            sed -i "s/progress: Month $CURRENT_MONTH of 14/progress: Month $NEW_MONTH of 14/" "$README_FILE"
+            
+            # Setze Output für Commit Message
+            echo "MONTH_UPDATED=true" >> $GITHUB_ENV
+            echo "NEW_MONTH=$NEW_MONTH" >> $GITHUB_ENV
+          else
+            echo "Already at month 14 - no update needed"
+            echo "MONTH_UPDATED=false" >> $GITHUB_ENV
+          fi
+      
+      - name: Commit and Push Changes
+        if: env.MONTH_UPDATED == 'true'
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🗓️ Auto-Update: Month progress → Month ${{ env.NEW_MONTH }} of 14"
+          git push
+      
+      - name: No Update Needed
+        if: env.MONTH_UPDATED == 'false'
+        run: echo "✅ Training already complete (Month 14/14) - no update performed"
+
