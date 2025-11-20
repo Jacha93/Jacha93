@@ -120,9 +120,10 @@ status: Building MVP Project
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
-<tr>
-<td width="50%">
+<tr><td>
 
 ### 🤖 Universe Anfragensystem
 **Discord Bot for GTA Roleplay Server**
@@ -139,8 +140,11 @@ Professional ticket & management system built with Discord.js
 
 **Status:** 🔒 Private Repository
 
-</td>
-<td width="50%">
+</td></tr>
+</table>
+
+<table>
+<tr><td>
 
 ### 🥫 smart-pantry
 **AI-Powered Pantry Management**
@@ -151,7 +155,11 @@ Building an intelligent solution for pantry organization and meal planning with 
 
 **Status:** 🔓 [View on GitHub](https://github.com/Jacha93/smart-pantry)
 
-<br/>
+</td></tr>
+</table>
+
+<table>
+<tr><td>
 
 ### 🌐 Personal Landing Page
 **Modern Portfolio & Showcase**
@@ -162,9 +170,10 @@ Clean, modern landing page built with pure vanilla web technologies
 
 **Status:** 🔒 Private • Coming Soon
 
-</td>
-</tr>
+</td></tr>
 </table>
+
+</div>
 
 ### 🏆 Hackathon Experience
 Participated in team-based Hackathon during Masterschool program - collaborative project development under time constraints
