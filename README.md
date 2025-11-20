@@ -89,28 +89,28 @@ status: Building MVP Project
 ![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%23339933)
-![Discord.js](https://img.shields.io/badge/Discord.js-%23323330.svg?style=for-the-badge&logo=discord&logoColor=%235865F2)
-![Flask](https://img.shields.io/badge/Flask-%23323330.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2306B6D4)
+[![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%23339933)](https://nodejs.org)
+[![Discord.js](https://img.shields.io/badge/Discord.js-%23323330.svg?style=for-the-badge&logo=discord&logoColor=%235865F2)](https://discord.js.org)
+[![Flask](https://img.shields.io/badge/Flask-%23323330.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2306B6D4)](https://tailwindcss.com)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
-![SQLite](https://img.shields.io/badge/SQLite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=%2303599C)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)](https://www.mongodb.com)
+[![SQLite](https://img.shields.io/badge/SQLite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=%2303599C)](https://www.sqlite.org)
 
 ### Tools & Environment
-![Cursor](https://img.shields.io/badge/Cursor_IDE-%23323330.svg?style=for-the-badge&logo=cursor&logoColor=%2300E5FF)
-![VS Code](https://img.shields.io/badge/VS_Code-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23323330.svg?style=for-the-badge&logo=pycharm&logoColor=%2300FF00)
-![Git](https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05032)
-![Docker](https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%232496ED)
-![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%23FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23323330.svg?style=for-the-badge&logo=ubuntu&logoColor=%23E95420)
+[![Cursor](https://img.shields.io/badge/Cursor_IDE-%23323330.svg?style=for-the-badge&logo=cursor&logoColor=%2300E5FF)](https://cursor.sh)
+[![VS Code](https://img.shields.io/badge/VS_Code-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)](https://code.visualstudio.com)
+[![PyCharm](https://img.shields.io/badge/PyCharm-%23323330.svg?style=for-the-badge&logo=pycharm&logoColor=%2300FF00)](https://www.jetbrains.com/pycharm)
+[![Git](https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05032)](https://git-scm.com)
+[![Docker](https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%232496ED)](https://www.docker.com)
+[![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%23FCC624)](https://www.linux.org)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-%23323330.svg?style=for-the-badge&logo=ubuntu&logoColor=%23E95420)](https://ubuntu.com)
 
 ### Streaming & Content
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-%23323330.svg?style=for-the-badge&logo=obs-studio&logoColor=%23302E31)
-![Twitch](https://img.shields.io/badge/Twitch-%23323330.svg?style=for-the-badge&logo=twitch&logoColor=%239146FF)
+[![OBS Studio](https://img.shields.io/badge/OBS_Studio-%23323330.svg?style=for-the-badge&logo=obs-studio&logoColor=%23302E31)](https://obsproject.com)
+[![Twitch](https://img.shields.io/badge/Twitch-%23323330.svg?style=for-the-badge&logo=twitch&logoColor=%239146FF)](https://twitch.tv/jacha_93)
 
 </div>
 
@@ -250,11 +250,21 @@ Streaming & tinkering with OBS Studio + Streamer.bot
 
 <div align="center">
 
-[![Twitch](https://img.shields.io/badge/Twitch-%23323330.svg?style=for-the-badge&logo=Twitch&logoColor=%239146FF)](https://twitch.tv/jacha_93)
-[![YouTube](https://img.shields.io/badge/YouTube-%23323330.svg?style=for-the-badge&logo=YouTube&logoColor=%23FF0000)](https://youtube.com/@jacha_93)
-[![X](https://img.shields.io/badge/X-%23323330.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jacha_93)
-[![Instagram](https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=%23E4405F)](https://instagram.com/jacha__93)
-[![Threads](https://img.shields.io/badge/Threads-%23323330.svg?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@jacha__93)
+<a href="https://twitch.tv/jacha_93" target="_blank">
+  <img src="https://img.shields.io/badge/Twitch-%23323330.svg?style=for-the-badge&logo=Twitch&logoColor=%239146FF" alt="Twitch"/>
+</a>
+<a href="https://youtube.com/@jacha_93" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23323330.svg?style=for-the-badge&logo=YouTube&logoColor=%23FF0000" alt="YouTube"/>
+</a>
+<a href="https://x.com/jacha_93" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23323330.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+</a>
+<a href="https://instagram.com/jacha__93" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23323330.svg?style=for-the-badge&logo=Instagram&logoColor=%23E4405F" alt="Instagram"/>
+</a>
+<a href="https://threads.net/@jacha__93" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-%23323330.svg?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+</a>
 
 </div>
 
