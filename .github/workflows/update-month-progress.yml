@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Update Month Progress
+        id: update
         run: |
           # Lese aktuelle README
           README_FILE="README.md"
@@ -27,7 +28,7 @@ jobs:
           # Validiere dass CURRENT_MONTH nicht leer ist
           if [ -z "$CURRENT_MONTH" ]; then
             echo "❌ Error: Could not find 'progress: Month X of 14' in README.md"
-            echo "MONTH_UPDATED=false" >> $GITHUB_ENV
+            echo "month_updated=false" >> $GITHUB_OUTPUT
             exit 0
           fi
           
@@ -36,7 +37,7 @@ jobs:
           # Validiere dass CURRENT_MONTH eine Zahl ist
           if ! [[ "$CURRENT_MONTH" =~ ^[0-9]+$ ]]; then
             echo "❌ Error: CURRENT_MONTH is not a valid number: $CURRENT_MONTH"
-            echo "MONTH_UPDATED=false" >> $GITHUB_ENV
+            echo "month_updated=false" >> $GITHUB_OUTPUT
             exit 0
           fi
           
@@ -49,23 +50,23 @@ jobs:
             sed -i "s/progress: Month $CURRENT_MONTH of 14/progress: Month $NEW_MONTH of 14/" "$README_FILE"
             
             # Setze Output für Commit Message
-            echo "MONTH_UPDATED=true" >> $GITHUB_ENV
-            echo "NEW_MONTH=$NEW_MONTH" >> $GITHUB_ENV
+            echo "month_updated=true" >> $GITHUB_OUTPUT
+            echo "new_month=$NEW_MONTH" >> $GITHUB_OUTPUT
           else
             echo "✅ Already at month 14 - no update needed"
-            echo "MONTH_UPDATED=false" >> $GITHUB_ENV
+            echo "month_updated=false" >> $GITHUB_OUTPUT
           fi
       
       - name: Commit and Push Changes
-        if: env.MONTH_UPDATED == 'true'
+        if: steps.update.outputs.month_updated == 'true'
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🗓️ Auto-Update: Month progress → Month ${{ env.NEW_MONTH }} of 14"
+          git commit -m "🗓️ Auto-Update: Month progress → Month ${{ steps.update.outputs.new_month }} of 14"
           git push
       
       - name: No Update Needed
-        if: env.MONTH_UPDATED == 'false'
+        if: steps.update.outputs.month_updated == 'false'
         run: echo "✅ Training already complete (Month 14/14) - no update performed"
 
