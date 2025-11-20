@@ -218,13 +218,10 @@ Running on **Ubuntu Server** with **Docker Compose**
 <br/>
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 12 November 2025 - To: 19 November 2025
-
-No activity tracked
+```text
+⏳ Waiting for first WakaTime data...
+   Code in Cursor to see your stats here!
 ```
-
 <!--END_SECTION:waka-->
 
 </details>
