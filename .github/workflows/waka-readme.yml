@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Läuft jeden Tag um 00:00 UTC
-    - cron: '0 0 * * *'
+    # Läuft alle 12 Stunden (00:00 und 12:00 UTC)
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
   push:
     branches:
