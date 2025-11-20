@@ -213,19 +213,9 @@ Running on **Ubuntu Server** with **Docker Compose**
 
 ### 📈 Coding Activity
 
-<details>
-<summary>📊 Weekly Coding Stats (powered by WakaTime)</summary>
-<br/>
+[![WakaTime](https://wakatime.com/badge/user/JachaDev.svg?style=for-the-badge&color=b6356f)](https://wakatime.com/@JachaDev)
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-</details>
+<sub>Live coding time tracked by WakaTime</sub>
 
 </div>
 
