@@ -197,7 +197,7 @@ Running on **Ubuntu Server** with **Docker Compose**
 
 <div align="center">
 
-![Jacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacha93&show_icons=true&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true&include_all_commits=true&count_private=true)
+![Jacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacha93&show_icons=true&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacha93&layout=compact&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true)
 
@@ -205,25 +205,24 @@ Running on **Ubuntu Server** with **Docker Compose**
 
 ### 📈 Coding Activity
 
-> **📝 WakaTime Setup:** Track deine Coding-Activity hier!  
-> 1. Erstelle einen Account auf [wakatime.com](https://wakatime.com)  
-> 2. Installiere die Extension für Cursor/VS Code  
-> 3. Ersetze `YOUR_WAKATIME_USER_ID` mit deiner User ID (Settings → Account)  
-> 4. Badge erscheint dann automatisch! ✨
-
-<!--
-Uncomment when WakaTime is set up:
-[![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=for-the-badge&color=b6356f)](https://wakatime.com/@JachaDev)
+> **🔧 WakaTime Setup (Optional):**  
+> 1. Account auf [wakatime.com](https://wakatime.com) erstellen (kostenlos)  
+> 2. Extension für Cursor/VS Code installieren  
+> 3. API Key in GitHub Secrets speichern: `WAKATIME_API_KEY`  
+> 4. Workflow in `.github/workflows/waka-readme.yml` aktivieren  
+> 5. Stats werden automatisch hier eingefügt! ⬇️
 
 <details>
 <summary>📊 Weekly Coding Stats</summary>
 <br/>
 
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+```txt
+Noch nicht eingerichtet - folge der Anleitung oben! ☕
+```
+<!--END_SECTION:waka-->
 
 </details>
--->
 
 </div>
 
