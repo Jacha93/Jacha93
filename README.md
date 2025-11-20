@@ -197,12 +197,11 @@ Running on **Ubuntu Server** with **Docker Compose**
 
 <div align="center">
 
-<a href="https://github.com/Jacha93">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jacha93&show_icons=true&theme=dark&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jacha93&layout=compact&theme=dark&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true"/>
-</a>
+![Jacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacha93&show_icons=true&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jacha93&theme=transparent&hide_border=true&ring=b6356f&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=b6356f&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff)](https://github.com/Jacha93)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacha93&layout=compact&bg_color=00000000&title_color=b6356f&text_color=ffffff&icon_color=00E5FF&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jacha93&theme=transparent&hide_border=true&ring=b6356f&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=b6356f&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 ### 📈 Coding Activity
 
