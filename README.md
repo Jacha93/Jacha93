@@ -29,7 +29,7 @@
 ```yaml
 program: Software Engineering @ Masterschool
 duration: 14 Months (Apr 2025 - Jun 2026)
-progress: Month 9 of 14
+progress: Month 10 of 14
 status: Building MVP Project
 ```
 
