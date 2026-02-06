@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Discord+Bot+Creator;Discord+Server+Manager;Web+Developer;Self-Hosting+Enthusiast;Content+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Discord+Bot+Creator;Discord+Server+Manager;Web+Developer;Self-Hosting+Enthusiast;Content+Creator;Cloud+Engineer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,7 +30,7 @@
 program: Software Engineering @ Masterschool
 duration: 14 Months (Apr 2025 - Jun 2026)
 progress: Month 11 of 14
-status: Building MVP Project
+status: Building MVP Project V2 + learn Cloud Engineering
 ```
 
 </td>
@@ -52,20 +52,21 @@ status: Building MVP Project
 <td width="50%">
 
 ### 🔭 Currently Working On
-- 📦 **MVP Project** for Masterschool
-- 🌐 **Landing Page** (Pure HTML/CSS/JS)
+- 📦 **MVP Project V2** for Masterschool ([smart-pantry](https://github.com/Jacha93/smart-pantry))
+- 🌐 **Landing Page** (React, TailwindCSS, Astro.js)
 - 🥫 **smart-pantry** (AI-powered app)
+- 🧦 **Personal Assistant** (based on [OpenClaw](https://openclaw.ai))
 - 🤖 Discord Bot improvements
 
 </td>
 <td width="50%">
 
 ### 🌱 Learning & Exploring
-- ⚛️ React & Next.js deep dive
+- 🔄 Self-hosting & server management
 - 🐳 Docker & Docker Compose mastery
+- ⚛️ React & Next.js/Vite
 - 🐍 Advanced Python patterns
 - 📱 Cross-platform app development (Expo)
-- 🔄 Self-hosting & server management
 
 </td>
 </tr>
@@ -94,12 +95,15 @@ status: Building MVP Project
 [![Discord.js](https://img.shields.io/badge/Discord.js-%23323330.svg?style=for-the-badge&logo=discord&logoColor=%235865F2)](https://discord.js.org)
 [![Flask](https://img.shields.io/badge/Flask-%23323330.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2306B6D4)](https://tailwindcss.com)
+[![Astro.js](https://img.shields.io/badge/Astro-%23323330.svg?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23323330.svg?style=for-the-badge&logoColor=white)](https://ui.shadcn.com) [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23323330.svg?style=for-the-badge&logo=framer&logoColor=white)](https://motion.dev)
 
 ### Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)](https://www.mongodb.com)
 [![SQLite](https://img.shields.io/badge/SQLite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=%2303599C)](https://www.sqlite.org)
+[![Supabase](https://img.shields.io/badge/Supabase-%23323330.svg?style=for-the-badge&logo=supabase&logoColor=%233ECF8E)](https://supabase.com)
 
 ### Tools & Environment
+[![Antigravity](https://img.shields.io/badge/Antigravity-%23323330.svg?style=for-the-badge&logo=google&logoColor=white)](https://antigravity.google)
 [![Cursor](https://img.shields.io/badge/Cursor_IDE-%23323330.svg?style=for-the-badge&logo=cursor&logoColor=%2300E5FF)](https://cursor.sh)
 [![VS Code](https://img.shields.io/badge/VS_Code-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)](https://code.visualstudio.com)
 [![PyCharm](https://img.shields.io/badge/PyCharm-%23323330.svg?style=for-the-badge&logo=pycharm&logoColor=%2300FF00)](https://www.jetbrains.com/pycharm)
@@ -111,6 +115,7 @@ status: Building MVP Project
 ### Streaming & Content
 [![OBS Studio](https://img.shields.io/badge/OBS_Studio-%23323330.svg?style=for-the-badge&logo=obs-studio&logoColor=%23302E31)](https://obsproject.com)
 [![Twitch](https://img.shields.io/badge/Twitch-%23323330.svg?style=for-the-badge&logo=twitch&logoColor=%239146FF)](https://twitch.tv/jacha_93)
+[![YouTube](https://img.shields.io/badge/YouTube-%23323330.svg?style=for-the-badge&logo=YouTube&logoColor=%23FF0000)](https://youtube.com/@Jacha_93)
 
 </div>
 
@@ -152,7 +157,7 @@ Professional ticket & management system built with Discord.js
 
 Building an intelligent solution for pantry organization and meal planning with AI assistance
 
-**Tech Stack:** `Python` `React` `AI Integration`
+**Tech Stack:** `Python` `React` `AI Integration with Google Gemini`
 
 **Status:** 🔓 [View on GitHub](https://github.com/Jacha93/smart-pantry)
 
@@ -164,9 +169,9 @@ Building an intelligent solution for pantry organization and meal planning with 
 
 Clean, modern landing page built with pure vanilla web technologies
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+**Tech Stack:** `React` `TailwindCSS` `Astro.js`
 
-**Status:** 🔒 Private • Coming Soon
+**Status:** 🔒 Private Repo
 
 </td>
 </tr>
@@ -189,7 +194,7 @@ Participated in team-based Hackathon during Masterschool program - collaborative
 
 Running on **Ubuntu Server** with **Docker Compose**
 
-📄 **Paperless-ngx** • 🍽️ **Mealie** • 🔄 **n8n** • 🐳 **Docker Stack**
+🛡️ **AdGuard Home** • 📄 **Paperless-ngx** • 🍽️ **Mealie** • 🔄 **n8n** • 🐳 **Docker Stack** • 🧦 **OpenClaw**
 
 *"Building my own cloud, one container at a time"*
 
@@ -222,10 +227,6 @@ Running on **Ubuntu Server** with **Docker Compose**
 </table>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jacha93&bg_color=00000000&color=00E5FF&line=b6356f&point=00E5FF&area=true&hide_border=true)
-
-### 📈 Coding Activity
-
-[![WakaTime Profile](https://img.shields.io/badge/WakaTime-Profile-%23323330?style=for-the-badge&logo=wakatime&logoColor=00E5FF)](https://wakatime.com/@JachaDev)
 
 </div>
 
@@ -286,7 +287,7 @@ const jacha = {
   location: "Germany 🇩🇪",
   previousLife: "9 years as Professional Truck Driver 🚛",
   currentMission: "Software Engineer @ Masterschool",
-  setup: ["RGB in Magenta & Cyan", "Nobara Linux Daily Driver"],
+  setup: ["RGB in Magenta & Cyan", "PikaOS Daily Driver", "Ubuntu Server", "Dobby as personal assistant"],
   philosophy: "If it can be dockerized, it will be dockerized",
   superpower: "Turning coffee into code",
   motto: "Building solutions that don't exist yet - for free"
@@ -300,7 +301,7 @@ const jacha = {
 - Career switcher: From truck driver to software engineer
 - Completed vocational training as professional driver
 - My GitHub theme matches my RGB setup 💜💙
-- Running Nobara Linux as daily driver
+- Running PikaOS as daily driver
 - Managing my own home lab with Ubuntu Server
 - 5 Discord servers under my watch
 - If it exists but costs money, I'll build it myself
