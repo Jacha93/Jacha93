@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jacha93 | JachaDev
-### 💻 Software Engineer in Training 💻
+### 💻 Software/AI Engineer 💻
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6) ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%233776AB) ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26) ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
 
@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Discord+Bot+Creator;Discord+Server+Manager;Web+Developer;Self-Hosting+Enthusiast;Content+Creator;Cloud+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Discord+Bot+Creator;Discord+Server+Manager;Web+Developer;Self-Hosting+Enthusiast;Streamer;Content+Creator;Cloud+Engineer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -52,10 +52,11 @@ status: Building MVP Project V2 + learn Cloud Engineering
 <td width="50%">
 
 ### 🔭 Currently Working On
-- 📦 **MVP Project V2** for Masterschool ([smart-pantry](https://github.com/Jacha93/smart-pantry))
-- 🌐 **Landing Page** (React, TailwindCSS, Astro.js)
-- 🥫 **smart-pantry** (AI-powered app)
-- 🧦 **Personal Assistant** (based on [OpenClaw](https://openclaw.ai))
+- 📦 **Streaming Setup**
+- 🎞️ **Optimize personal online presence**
+- 🌐 **Landing Page + Blog** (React, TailwindCSS, Astro.js, Supabase)
+- 🧦 **Personal Assistant** (based on [OpenClaw](https://openclaw.ai) + [Hermes Agent](https://github.com/nousresearch/hermes-agent))
+- 🥫 **[smart-pantry](https://github.com/Jacha93/smart-pantry)** (AI-powered app)
 - 🤖 Discord Bot improvements
 
 </td>
@@ -103,8 +104,7 @@ status: Building MVP Project V2 + learn Cloud Engineering
 [![Supabase](https://img.shields.io/badge/Supabase-%23323330.svg?style=for-the-badge&logo=supabase&logoColor=%233ECF8E)](https://supabase.com)
 
 ### Tools & Environment
-[![Antigravity](https://img.shields.io/badge/Antigravity-%23323330.svg?style=for-the-badge&logo=google&logoColor=white)](https://antigravity.google)
-[![Cursor](https://img.shields.io/badge/Cursor_IDE-%23323330.svg?style=for-the-badge&logo=cursor&logoColor=%2300E5FF)](https://cursor.sh)
+[![Codex](https://img.shields.io/badge/Codex)](https://openai.com/de-DE/codex/)
 [![VS Code](https://img.shields.io/badge/VS_Code-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)](https://code.visualstudio.com)
 [![PyCharm](https://img.shields.io/badge/PyCharm-%23323330.svg?style=for-the-badge&logo=pycharm&logoColor=%2300FF00)](https://www.jetbrains.com/pycharm)
 [![Git](https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05032)](https://git-scm.com)
